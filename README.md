@@ -63,7 +63,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/simrridhhichahan/Plugins.git`
+`git clone https://github.com/job/Plugins.git`
 - Open Cloned Folder.
 
 `cd Plugins`
